@@ -11,6 +11,7 @@ These notes are roughly centered around topics like
 
 - Computer stuff  
 - Cloud, Kubernetes and Cloud Native 
+- Productivity
 - Philosophy 
 - Mental Health 
 - Life 
@@ -19,8 +20,10 @@ and everything in between that i found interesting to note down.
 
 ## I Will Be Your Guide
 
-So whats this and [[010 Inbox/Why Am I Taking Notes\|Why Am I Taking Notes]]?
-[[300 Resources/Obsidian Structure/MOC Library\|MOC Library]]
+So what is this? 
+Chaos. Creative Chaos. 
+
+[[010 Inbox/Why Am I Taking Notes\|Why Am I Taking Notes]]?
 
 ## Similar Projects
 
