@@ -3,8 +3,7 @@
 ---
 
 
-
-# Tool - Choosing an instance type for a Kubernetes cluster
+# Tool - Choosing an Instance Type for a Kubernetes Cluster
 
 Research on the trade-offs when choosing an instance type for a Kubernetes cluster
 
